@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
    
    
    took refrence from Clément Mihailescu youtube channel and GeeksforGeeks 
+the Src folder contains the primary code 
